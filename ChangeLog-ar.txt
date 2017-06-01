@@ -1,0 +1,36 @@
+﻿{"version_code":451192,"content":"
+<p>تحديث 9.30</p>
+
+<li>التحديث لنسخة الماركت 2.17.146</li>
+<li>إمكانية إرسال البرامج والالعاب وكافة انواع الملفات</li>
+<li>يمكنك تثبيت اي دردشة في اعلى قائمة الدردشات لكي تصل اليها بسهولة</li>
+<li>(حصريا) إمكانية تثبيت اكثر من 3 محادثات</li>
+<li>(حصريا) تعديل الخيار رقم 6.8 يمكنك وضع قائمة الاسماء بدلا من قائمة الحالة او بدلا من قائمة سجل المكالمات</li>
+<li>إضافة خيار لتغيير نمط المحادثات المخفية (افتح المحادثات المخفية ثم زر الاعدادات)</li>
+<li>إضافة الخيار رقم 1.1.14 لإخفاء زر الارفاق من الشريط العلوي في المحادثة</li>
+<li>إضافة الخيار رقم 1.2.44 لإخفاء زر الارفاق من صندوق الكتابة في المحادثة</li>
+<li>إصلاح الخيار رقم 6.11 لتعطيل ظهور الإشعارات المنبثقة في اصدار نوغا (7.0)</li>
+<li>إصلاح عدم ظهور النمط عند اخفاء محادثة في بعض الاجهزة</li>
+<li>إصلاح عدم ظهور القفل عند فتح الواتساب من الويدجت</li>
+<li>إصلاحات اخرى</li>
+
+<li>New Base Updated to 2.17.146 (Playstore) </li>
+<li>Added Ability to Send All Files (Eg. Apk, etc) </li>
+<li>Unlocked Pin Chats</li>
+<li>(Exclusive) Ability to Pin More Than 3 Chats (Default is 3)</li>
+<li>(Exclusive) Show Contacts Tab in Different Style (Mod 6.8)</li>
+<li>(Exclusively) Added Attach Icon in Header (in New UI, it was removed by default) </li>
+<li>Added Option to Change Pattern to Hide Chats (Go to Hide Chat List & Click on Gear icon on Top right)</li>
+<li>Added Option to Hide Attach Icon from Header (Mod 1.1.14)</li>
+<li>Added Option to Hide Attach Icon from Stock Entry Style (Mod 1.2.44)</li>
+<li>Added Color to the Document Text (will be same as Hyperlink) </li>
+<li>Fixed Show Contact Status (Mod 2.2.2)</li>
+<li>Fixed Heads-up Notifications for Nougat (Mod 6.11)</li>
+<li>Fixed Pattern Not Showing for Some Phones When Hide Chats</li>
+<li>Fixed Voice Note Time Color </li>
+<li>Fixed Button Delete Background</li>
+<li>Fixed WhatsApp Lock</li>
+<li>Other Fixes</li>
+
+","url":"http://www.3ssem.com/2016/10/agwhatsapp.html"
+}
