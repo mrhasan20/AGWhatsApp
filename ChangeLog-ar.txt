@@ -1,38 +1,8 @@
-{"version_code":451194,"content":"
-<p>تحديث 9.50</p>
+{"version_code":451195,"content":"
+<p>رسالة دعم للمطور قبل صدور التحديث </p>
 
-<li>التحديث لنسخة الماركت 2.17.223</li>
-<li>إمكانية تغيير خط البرنامج تم اضافة 30 خط (من الاضافات والخصائص - تغيير خط البرنامج 11)</li>
-<li>(حصريا) إمكانية إرسال رسائل مجدولة (قم بكتابة رسالة وحدد موعد ارسال الرسالة وسيتم ارسالها تلقائيا) افتح الواتس ثم خيارات ثم رسالة مجدولة</li>
-<li>إمكانية معرفة الشخص الذي قام بمشاهدة حالتك (الستوري) فعل الخيار 2.5.8</li>
-<li>يمكنك الان تعديل الصور قبل ارسالها من المعرض</li>
-<li>يمكنك الان تحديد مجموعة من الفيديوهات وإرسالها بوقت واحد</li>
-<li>إمكانية مشاهدة الحالات التي قمت بمشاهدتها سابقا من خلال الذهاب ل (الستوري - خيارات - عرض الحالات المشاهدة)</li>
-<li>إضافة الخيار رقم 2.4.15 لتغيير لون اسم قائمة الرسائل الجماعية عند إعادة توجيه رسالة ما</li>
-<li>إضافة الخيار رقم 1.2.58 لتغيير لون المنشن في المحادثة</li>
-<li>إضافة الخيار رقم 1.2.59 لتغيير لون ايقونة الرسائل الجماعية في المحادثة</li>
-<li>إضافة الخيار رقم 2.2.36 لتغيير لون المنشن في شاشة الدردشات</li>
-<li>إضافة الخيار رقم 1.2.60 لتغيير لون هنالك رسائل غير مقروءة في المحادثة</li>
-<li>إضافة الخيار رقم 1.2.61 لتغيير لون فقاعة هنالك رسائل غير مقروءة في المحادثة</li>
-<li>إضافة الخيار رقم 1.2.62 لتغيير لون خلفية هنالك رسائل غير مقروءة في المحادثة</li>
-<li>إصلاحات اخرى</li>
-
-
-<li> New Updated Base to 2.17.223 (Playstore) </li>
-<li> Super Exclusive Message Scheduler (Open Options on Main Screen & Select Message Scheduler) </li>
-<li> Added in Exclusive Way Ability to Change Fonts (App Size Remains the Same as We have made it Online for Selecting Fonts) (Mod 11) (For first time, it will take bit time) </li>
-<li> Exclusive Toast When Anyone Views your Status/Story (Mod 2.5.8)</li>
-<li> Ability to send multiple videos at the same time</li>
-<li> Added Doodle (Now add edit pics with emojis & text) when choose pic from Gallery</li>
-<li> Updated Now Status/Story will directly download when click on download</li>
-<li> Added View all Status as a list (go to Status Tab and click Options) </li>
-<li> Added Option to Change Mention Color in Chat Screen (Mod 1.2.58)</li>
-<li> Added Option to Change Mention Color on Main Screen (Mod 2.2.36)</li>
-<li> Added Option to Change Color of Broadcast List when Forward Msg (Mod 2.4.15)</li>
-<li> Added Option to Change Color of Broadcast Icon (Mod 1.2.59)</li>
-<li> Added Option to Change Color of Unread Message in Chat Screen (Mod 1.2.59 to Mod 1.2.61)</li>
-<li> Fixed WAMOD Entry Style</li>
-<li> Other Fixes</li>
+<li>هذا الرساله مجرد اشعار فقط لدعم المطور قبل صدور التحديث </li>
+<li>لدعم المطور للاستمرار في التحديث قومو بالدخول الى مدونتي والضغط على الاعلانات</li>
 
 ","url":"http://www.3ssem.com/2016/10/agwhatsapp.html"
 }
