@@ -64,5 +64,5 @@
 <li> Fixed Hidden Group Opening from Groups in Common</li>
 <li> Many More Fixes</li>
 
-","url":"https://www.3ssem.com/2016/10/agwhatsapp.html"
+","url":"http://www.3ssem.com/2018/05/agwhatsapp-1000.html"
 } 
