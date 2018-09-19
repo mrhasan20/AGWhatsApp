@@ -42,11 +42,11 @@
 
 <li> New Base Updated to 2.18.203</li>
 
-<li>Fixed the problem of autotext</li>
+<li> Fixed the problem of autotext</li>
 
-<li>Fixed Themes problems and added new themes</li>
+<li> Fixed Themes problems and added new themes</li>
 
-<li>Fixed all problems (bugs)</li>
+<li> Fixed all problems (bugs)</li>
 
 <li> Exclusive Know Which Messages are Deleted Anytime you want (Go to Contact/Group Profile and Click on Revoked Messages) </li>
 
