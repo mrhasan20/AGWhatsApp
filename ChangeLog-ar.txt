@@ -8,11 +8,7 @@
 
 <li>إضافة ميزة النص التفجيري التلقائي</li>
 
-<li>إضافة القران الكريم في الشاشة الرئيسية بشكل جديد</li>
-
 <li>إضافة قسم حالات جاهزة تعمل على جميع الأجهزة</li>
-
-<li>إضافة خيار لمعرفة برجك الخاص</li>
 
 <li>يمكنك عمل مكالمة جماعية ما اعضاء المجموعات</li>
 
@@ -31,8 +27,6 @@
 <li> Added New Emojis</li>
 
 <li> Added Boomb AutoText</li>
-
-<li> Added Holy Quran in Main Screen with New Style</li>
 
 <li> Added You can call Participants in groups</li>
 
