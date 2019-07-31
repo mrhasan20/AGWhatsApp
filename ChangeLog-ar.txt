@@ -1,12 +1,10 @@
-{"version_code":451216,"content":"
+{"version_code":451217,"content":"
 <p>تحديث 10.65 (Update)</p>
 
-<li>نسخة ضد الحظر (يجب عمل نسخة احتياطية للمحادثات ثم حذف الواتس اب وتثبيت التحديث الجديد حتى لا يتم حظر رقمك مستقبلا)</li>
 <li>تم تمديد النسخه 5 اشهر من نشرها</li>
 <li>حل مشكلة الايقاف الاجباري عند دخول اي محادثه</li>
 <li>اصلاحات اخرى</li>
 
-<li> Anti-Ban (Please take Backup - Uninstall App / Install AGWhatsApp v10.65)</li>
 <li> Extended version 5 months</li>
 <li> Fixed all problems</li>
 
