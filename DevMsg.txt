@@ -1,12 +1,1 @@
-{"version_code":451217,"content":"
-<p>تحديث 10.65 (Update)</p>
-
-<li>تم تمديد النسخه 5 اشهر من نشرها</li>
-<li>حل مشكلة الايقاف الاجباري عند دخول اي محادثه</li>
-<li>اصلاحات اخرى</li>
-
-<li> Extended version 5 months</li>
-<li> Fixed all problems</li>
-
-","url":"https://www.3ssem.com/2019/07/ag-whatsapp-10-65.html"
-}
+{'num':'0', 'msgs':'\nThis app is FREE and does NOT cost any money!\nIf you paid for it, you have been scammed!\n\nDo NOT buy it again, when an UPDATE is available you will get a message automatically.\nNo need to buy it\n'}
